@@ -15,7 +15,7 @@ def startscreen():
         print("Please copy exactly what the options are.")
         startscreen()    
 
- 
+ # My codespace timed out or deleted or somthing, so i had to redo it. as it was going to take me ages, i used the basis of my quiz (though i expanded it a lot)to get it done sooner.
 
 
 def quiz_screen():
